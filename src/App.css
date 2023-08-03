@@ -1,0 +1,7 @@
+.w-available {
+    width: -webkit-fill-available;
+}
+
+.border-fancy {
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+}
